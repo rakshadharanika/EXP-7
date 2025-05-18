@@ -103,7 +103,7 @@ If the buyer’s offer meets or exceeds the AI-evaluated threshold, the transact
 
 
 
-![image](https://github.com/user-attachments/assets/d984a182-2d0f-49e8-b373-a555b33ba291)
+![image](https://github.com/user-attachments/assets/19bd0978-710e-4718-a93d-c0ede8922bf9)
 
 
 
@@ -123,4 +123,5 @@ If the buyer’s offer meets or exceeds the AI-evaluated threshold, the transact
 
 # RESULT:
 
+Thus,To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
